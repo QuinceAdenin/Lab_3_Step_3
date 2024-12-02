@@ -40,3 +40,4 @@ public class CharacterSpliterator implements Spliterator<Character> {
         return ORDERED | SIZED | SUBSIZED | NONNULL | IMMUTABLE;
     }
 }
+//
