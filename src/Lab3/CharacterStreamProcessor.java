@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
-
+//1
 public class CharacterStreamProcessor {
     public static void processString(String input) {
         // Создание Stream<Character> из строки

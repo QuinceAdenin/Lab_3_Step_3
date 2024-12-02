@@ -5,7 +5,7 @@ public class Product {
     private String category;
     private double price;
     private int stock;
-//
+//12231
     public Product(String name, String category, double price, int stock) {
         this.name = name;
         this.category = category;

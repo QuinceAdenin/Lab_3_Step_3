@@ -2,7 +2,7 @@ package Lab3;
 
 import java.util.Spliterator;
 import java.util.function.Consumer;
-
+//1
 public class CharacterSpliterator implements Spliterator<Character> {
     private final String string;
     private int currentIndex = 0;
