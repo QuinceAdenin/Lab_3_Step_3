@@ -1,3 +1,5 @@
+package Lab3;
+
 import java.util.Spliterator;
 import java.util.function.Consumer;
 

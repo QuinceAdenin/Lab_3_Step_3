@@ -1,3 +1,5 @@
+package Lab3;
+
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.Map;
@@ -11,7 +13,7 @@ public class Main {
                 new Product("Laptop", "Electronics", 1200.0, 3),
                 new Product("Smartphone", "Electronics", 800.0, 10),
                 new Product("Book", "Books", 20.0, 50),
-                new Product("Headphones", "Electronics", 150.0, 2),
+                new Product("Headphones", "Electronics", 150.0, 1),
                 new Product("Shirt", "Clothing", 30.0, 15),
                 new Product("Shoes", "Clothing", 50.0, 8),
                 new Product("Tablet", "Electronics", 500.0, 5),

@@ -1,3 +1,5 @@
+package Lab3;
+
 public class Product {
     private String name;
     private String category;
